@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Programa que lee y muestra si un año es bisiesto o no bisiesto utilizando operadores lógicos
 Console.WriteLine("Ingresa un año para saber si es bisiesto o no:");
 Console.Write("Año: ");
 int año = Convert.ToInt32(Console.ReadLine());
