@@ -1,0 +1,14 @@
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\bin\Debug\net8.0\EjerciciopracticaViernes.exe
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\bin\Debug\net8.0\EjerciciopracticaViernes.deps.json
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\bin\Debug\net8.0\EjerciciopracticaViernes.runtimeconfig.json
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\bin\Debug\net8.0\EjerciciopracticaViernes.dll
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\bin\Debug\net8.0\EjerciciopracticaViernes.pdb
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\obj\Debug\net8.0\EjerciciopracticaViernes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\obj\Debug\net8.0\EjerciciopracticaViernes.AssemblyInfoInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\obj\Debug\net8.0\EjerciciopracticaViernes.AssemblyInfo.cs
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\obj\Debug\net8.0\EjerciciopracticaViernes.csproj.CoreCompileInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\obj\Debug\net8.0\EjerciciopracticaViernes.dll
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\obj\Debug\net8.0\refint\EjerciciopracticaViernes.dll
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\obj\Debug\net8.0\EjerciciopracticaViernes.pdb
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\obj\Debug\net8.0\EjerciciopracticaViernes.genruntimeconfig.cache
+C:\Users\galea\OneDrive\Desktop\CS\EjerciciopracticaViernes\obj\Debug\net8.0\ref\EjerciciopracticaViernes.dll

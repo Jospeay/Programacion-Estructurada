@@ -1,0 +1,14 @@
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\bin\Debug\net8.0\AñobisiestoTarea.exe
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\bin\Debug\net8.0\AñobisiestoTarea.deps.json
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\bin\Debug\net8.0\AñobisiestoTarea.runtimeconfig.json
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\bin\Debug\net8.0\AñobisiestoTarea.dll
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\bin\Debug\net8.0\AñobisiestoTarea.pdb
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\obj\Debug\net8.0\AñobisiestoTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\obj\Debug\net8.0\AñobisiestoTarea.AssemblyInfoInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\obj\Debug\net8.0\AñobisiestoTarea.AssemblyInfo.cs
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\obj\Debug\net8.0\AñobisiestoTarea.csproj.CoreCompileInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\obj\Debug\net8.0\AñobisiestoTarea.dll
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\obj\Debug\net8.0\refint\AñobisiestoTarea.dll
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\obj\Debug\net8.0\AñobisiestoTarea.pdb
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\obj\Debug\net8.0\AñobisiestoTarea.genruntimeconfig.cache
+C:\Users\galea\OneDrive\Desktop\CS\AñobisiestoTarea\obj\Debug\net8.0\ref\AñobisiestoTarea.dll

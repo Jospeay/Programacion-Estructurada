@@ -1,0 +1,14 @@
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\bin\Debug\net8.0\SwicthTarea.exe
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\bin\Debug\net8.0\SwicthTarea.deps.json
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\bin\Debug\net8.0\SwicthTarea.runtimeconfig.json
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\bin\Debug\net8.0\SwicthTarea.dll
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\bin\Debug\net8.0\SwicthTarea.pdb
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\obj\Debug\net8.0\SwicthTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\obj\Debug\net8.0\SwicthTarea.AssemblyInfoInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\obj\Debug\net8.0\SwicthTarea.AssemblyInfo.cs
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\obj\Debug\net8.0\SwicthTarea.csproj.CoreCompileInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\obj\Debug\net8.0\SwicthTarea.dll
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\obj\Debug\net8.0\refint\SwicthTarea.dll
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\obj\Debug\net8.0\SwicthTarea.pdb
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\obj\Debug\net8.0\SwicthTarea.genruntimeconfig.cache
+C:\Users\galea\OneDrive\Desktop\CS\SwicthTarea\obj\Debug\net8.0\ref\SwicthTarea.dll

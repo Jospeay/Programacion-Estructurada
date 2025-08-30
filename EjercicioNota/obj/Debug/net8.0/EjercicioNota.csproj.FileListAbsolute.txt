@@ -1,0 +1,14 @@
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\bin\Debug\net8.0\EjercicioNota.exe
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\bin\Debug\net8.0\EjercicioNota.deps.json
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\bin\Debug\net8.0\EjercicioNota.runtimeconfig.json
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\bin\Debug\net8.0\EjercicioNota.dll
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\bin\Debug\net8.0\EjercicioNota.pdb
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\obj\Debug\net8.0\EjercicioNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\obj\Debug\net8.0\EjercicioNota.AssemblyInfoInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\obj\Debug\net8.0\EjercicioNota.AssemblyInfo.cs
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\obj\Debug\net8.0\EjercicioNota.csproj.CoreCompileInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\obj\Debug\net8.0\EjercicioNota.dll
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\obj\Debug\net8.0\refint\EjercicioNota.dll
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\obj\Debug\net8.0\EjercicioNota.pdb
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\obj\Debug\net8.0\EjercicioNota.genruntimeconfig.cache
+C:\Users\galea\OneDrive\Desktop\CS\EjercicioNota\obj\Debug\net8.0\ref\EjercicioNota.dll

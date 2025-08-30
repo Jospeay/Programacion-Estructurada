@@ -1,0 +1,14 @@
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\bin\Debug\net8.0\Prueba.exe
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\bin\Debug\net8.0\Prueba.deps.json
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\bin\Debug\net8.0\Prueba.runtimeconfig.json
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\bin\Debug\net8.0\Prueba.dll
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\bin\Debug\net8.0\Prueba.pdb
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\obj\Debug\net8.0\Prueba.dll
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\obj\Debug\net8.0\refint\Prueba.dll
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\obj\Debug\net8.0\Prueba.pdb
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\obj\Debug\net8.0\Prueba.genruntimeconfig.cache
+C:\Users\galea\OneDrive\Desktop\CS\Prueba\obj\Debug\net8.0\ref\Prueba.dll

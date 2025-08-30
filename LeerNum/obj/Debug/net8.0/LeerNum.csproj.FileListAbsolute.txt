@@ -1,0 +1,14 @@
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\bin\Debug\net8.0\LeerNum.exe
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\bin\Debug\net8.0\LeerNum.deps.json
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\bin\Debug\net8.0\LeerNum.runtimeconfig.json
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\bin\Debug\net8.0\LeerNum.dll
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\bin\Debug\net8.0\LeerNum.pdb
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\obj\Debug\net8.0\LeerNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\obj\Debug\net8.0\LeerNum.AssemblyInfoInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\obj\Debug\net8.0\LeerNum.AssemblyInfo.cs
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\obj\Debug\net8.0\LeerNum.csproj.CoreCompileInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\obj\Debug\net8.0\LeerNum.dll
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\obj\Debug\net8.0\refint\LeerNum.dll
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\obj\Debug\net8.0\LeerNum.pdb
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\obj\Debug\net8.0\LeerNum.genruntimeconfig.cache
+C:\Users\galea\OneDrive\Desktop\CS\LeerNum\obj\Debug\net8.0\ref\LeerNum.dll

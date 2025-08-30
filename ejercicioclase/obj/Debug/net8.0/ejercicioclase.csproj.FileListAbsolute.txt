@@ -1,0 +1,14 @@
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\bin\Debug\net8.0\ejercicioclase.exe
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\bin\Debug\net8.0\ejercicioclase.deps.json
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\bin\Debug\net8.0\ejercicioclase.runtimeconfig.json
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\bin\Debug\net8.0\ejercicioclase.dll
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\bin\Debug\net8.0\ejercicioclase.pdb
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\obj\Debug\net8.0\ejercicioclase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\obj\Debug\net8.0\ejercicioclase.AssemblyInfoInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\obj\Debug\net8.0\ejercicioclase.AssemblyInfo.cs
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\obj\Debug\net8.0\ejercicioclase.csproj.CoreCompileInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\obj\Debug\net8.0\ejercicioclase.dll
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\obj\Debug\net8.0\refint\ejercicioclase.dll
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\obj\Debug\net8.0\ejercicioclase.pdb
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\obj\Debug\net8.0\ejercicioclase.genruntimeconfig.cache
+C:\Users\galea\OneDrive\Desktop\CS\ejercicioclase\obj\Debug\net8.0\ref\ejercicioclase.dll

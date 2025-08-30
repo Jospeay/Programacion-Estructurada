@@ -1,0 +1,14 @@
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\bin\Debug\net8.0\Ejercicio1Lunes.exe
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\bin\Debug\net8.0\Ejercicio1Lunes.deps.json
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\bin\Debug\net8.0\Ejercicio1Lunes.runtimeconfig.json
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\bin\Debug\net8.0\Ejercicio1Lunes.dll
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\bin\Debug\net8.0\Ejercicio1Lunes.pdb
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\obj\Debug\net8.0\Ejercicio1Lunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\obj\Debug\net8.0\Ejercicio1Lunes.AssemblyInfoInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\obj\Debug\net8.0\Ejercicio1Lunes.AssemblyInfo.cs
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\obj\Debug\net8.0\Ejercicio1Lunes.csproj.CoreCompileInputs.cache
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\obj\Debug\net8.0\Ejercicio1Lunes.dll
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\obj\Debug\net8.0\refint\Ejercicio1Lunes.dll
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\obj\Debug\net8.0\Ejercicio1Lunes.pdb
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\obj\Debug\net8.0\Ejercicio1Lunes.genruntimeconfig.cache
+C:\Users\galea\OneDrive\Desktop\CS\Ejercicio1Lunes\obj\Debug\net8.0\ref\Ejercicio1Lunes.dll
