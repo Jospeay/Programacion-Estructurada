@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Tarea sobre calificaciones utilizando Switch para asi poder tener diferentes casos y resultados.
 Console.WriteLine("Bienvenido a SwitchTarea");
 Console.WriteLine("Favor de ingresar su nota para poder verificar su calificación");
 Console.Write("Nota:");
