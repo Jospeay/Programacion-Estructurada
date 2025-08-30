@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+//Programa que lee una nota estudiantil y muestra si se aprobo la clase, poder ir a reparar o reprobar todo el curso
+
 
 int calificacion = 85;
 Console.WriteLine("Proyecto de Notas");
