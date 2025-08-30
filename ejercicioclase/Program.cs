@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+//Programa que determina si un número es positivo o negativo utilizando el if-else para determinar el resultado
 int num;
 
 Console.WriteLine("Programa para saber si un numéro es positivo o negativo");
